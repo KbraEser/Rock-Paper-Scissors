@@ -15,12 +15,16 @@
 
 body {
   background-image: url(images/fingers-149295_1920.png);
-
   background-repeat: no-repeat;
   background-size: cover;
   background-color: var(--pale-blue);
   font-size: 16px;
   font-family: "Red Hat Display", sans-serif;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
 }
 .move-button {
   width: 120px;
@@ -41,7 +45,7 @@ body {
   background-color: var(--very-pale-blue);
   color: var(--desaturated-blue);
   border-radius: 20px;
-  margin: 50px auto;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
 .title {

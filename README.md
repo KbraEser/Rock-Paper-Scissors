@@ -38,8 +38,3 @@ Oyunun nasıl oynandığını görmek için [YouTube videosunu](https://youtu.be
 4. Tarayıcınızda oyun otomatik olarak açılacaktır
 
 
-
-## Geliştirici
-Kübra Eser
-
-Bu proje eğitim amaçlı olarak geliştirilmiştir. Daha fazla JavaScript projeleri için [YouTube kanalımı](https://www.youtube.com/@SuperSimpleDev) ziyaret edebilirsiniz. 
